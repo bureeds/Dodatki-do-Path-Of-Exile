@@ -1,5 +1,4 @@
-## nie pobierać jeszcze bo część nie dostała jeszcze update'a.
-## jak coś mi się przypomni to tu jeszcze wyślę
+## nie pobierać jeszcze bo część nie dostała jeszcze update'a. jak coś mi się przypomni to tu jeszcze dodam.
 # do pobrania obowiązkowo:
 ### filtr:
 - https://www.filterblade.xyz/
