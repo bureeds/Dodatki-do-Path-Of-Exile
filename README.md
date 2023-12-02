@@ -17,12 +17,13 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - https://github.com/C1rdec/Poe-Lurker macro do łatwiejszego handlowania z graczami
 # Strony:
 - https://www.poebuilds.cc/ buildy
+&nbsp;
 - https://poe.ninja/ sprawdzanie cen z wykresami + wyszukiwarka
 - https://poe.ninja/builds/ancestor sprawdzanie czym grają top gracze
 - https://www.pathofexile.com/trade/search/Ancestor handlowanie z ludźmi
 - https://www.poelab.com/ mapki labów
 - https://poeplanner.com/ Pob tylko że na necie (chyba nie ma wszystkich opcji)
-- https://heartofphos.github.io/exile-leveling/ leveling po kampani (można build tam zimprotować i będzie wtedy pokazywało kiedy gemy kupić i jakie) i fajnie na telefonie widać
+- https://heartofphos.github.io/exile-leveling/ leveling kampania (można build tam zimprotować i będzie wtedy pokazywało kiedy gemy kupić i jakie) i fajnie na telefonie widać
 - https://poe-leveling.com/ to samo co wyżej
 - https://www.pathofpathing.com generator do drzewka atlasu
 - https://www.craftofexile.com/ craftowanie symulator oblicza koszt itp
