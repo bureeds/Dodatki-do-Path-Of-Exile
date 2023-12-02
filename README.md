@@ -1,1 +1,4 @@
 # easypoe
+
+# do pobrania:
+$$ obowiązkowo
