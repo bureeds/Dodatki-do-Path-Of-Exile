@@ -1,6 +1,4 @@
-# easypoe
-
-# do pobrania obowiązkowow:
+# do pobrania obowiązkowo:
 ### filtr:
 - https://www.filterblade.xyz/
 tu se filtr możesz wygenerować i pobrać (pobrany sam się nie aktualizuje więc trzeba co kilka dni pobrać nowy plik by nie omijać zmian cen itemów)
@@ -18,7 +16,7 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - https://github.com/C1rdec/Poe-Lurker macro do łatwiejszego handlowania z graczami
 # Strony:
 - https://www.poebuilds.cc/ buildy
-- https://poe.ninja/ sprawdzanie cen z wygkresami + wyszukiwarka
+- https://poe.ninja/ sprawdzanie cen z wykresami + wyszukiwarka
 - https://poe.ninja/builds/ancestor sprawdzanie czym grają top gracze
 - https://www.pathofexile.com/trade/search/Ancestor handlowanie z ludźmi
 - https://www.poelab.com/ mapki labów
@@ -27,3 +25,5 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - https://poe-leveling.com/ to samo co wyżej
 - https://www.pathofpathing.com generator do drzewka atlasu
 - https://www.craftofexile.com/ craftowanie symulator oblicza koszt itp
+
+tu może znajdziecie coś https://grinding.zone/
