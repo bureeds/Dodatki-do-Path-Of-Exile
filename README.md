@@ -15,6 +15,7 @@ must have do patrzenia na czyjeś buildy np startery. importujesz tam build i wi
 - https://github.com/Lailloken/Lailloken-UI - masa opcji. dla was najlepsza opcja tu to hud który jest takim gps'em po kampani+ wyświetla mapy lokacji
 z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - https://github.com/C1rdec/Poe-Lurker macro do łatwiejszego handlowania z graczami
+- https://github.com/flbraun/poe-palette fajna wyszukiwarka
 # Strony:
 - https://www.poebuilds.cc/ buildy
 &nbsp;
