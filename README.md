@@ -6,6 +6,8 @@ tu se filtr możesz wygenerować i pobrać (pobrany sam się nie aktualizuje wi�
 LUB:
 - https://www.pathofexile.com/item-filter/ladder/follower
 tu sobie followujesz te od neversinka z nazwą ligi. po jakiejś minucie będziesz mógł już wybrać sobie go w grze, zero pobierania sam się aktualizuje
+- https://www.filterblade.xyz/Profile?name=cdrpoe&platform=pc filtr z Text-to-speech taki sobie
+- https://www.dropbox.com/s/3exc93fd8v677id/sounds.zip?dl=0 dźwięki do filtra wyrzej
 ### POB
 - https://pathofbuilding.community/
 must have do patrzenia na czyjeś buildy np startery. importujesz tam build i widzisz wszystko. jak rodawać punkty na drzewku, jakie gemy, jakie itemy jak levelować i wiele więcej.
