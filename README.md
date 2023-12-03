@@ -30,3 +30,4 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - https://www.craftofexile.com/ craftowanie symulator oblicza koszt itp
 
 tu może znajdziecie coś https://grinding.zone/
+![image](https://github.com/bureeds/Dodatki-do-Path-Of-Exile/assets/34321746/6eac0fdb-930d-45b0-9f33-47b617c8affe)
