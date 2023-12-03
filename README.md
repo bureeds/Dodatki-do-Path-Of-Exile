@@ -16,6 +16,7 @@ must have do patrzenia na czyjeś buildy np startery. importujesz tam build i wi
 z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - https://github.com/C1rdec/Poe-Lurker macro do łatwiejszego handlowania z graczami
 - https://github.com/flbraun/poe-palette fajna wyszukiwarka
+- https://github.com/ChaosRecipeEnhancer/EnhancePoEApp podpowiada ci co musisz podnieść by wymienić cały set na chaos orby
 # Strony:
 - https://www.poebuilds.cc/ buildy
 &nbsp;
