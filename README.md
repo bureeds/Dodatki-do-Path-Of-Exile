@@ -37,6 +37,9 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - https://grinding.zone/ więcej jakiś stron z poe jak ten github
 # Buildy:
 ### Meta:
+- Explosive Arrow Champion<br>
+POB: https://pobb.in/JQ4RKPJbvyyK lub https://pobb.in/G-VI6PiiEu7m
+Video: https://www.youtube.com/watch?v=pHssEwgZFQo
 - srs guardian<br>
 POB: https://pobb.in/u/Subtractem/trZV71AYrYDM<br>
 Video: https://youtu.be/fiYpBOXPAgk?si=qQH6NenEStASSQLr<br>
