@@ -39,6 +39,7 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - srs guardian<br>
 POB: https://pobb.in/u/Subtractem/trZV71AYrYDM<br>
 Video: https://youtu.be/fiYpBOXPAgk?si=qQH6NenEStASSQLr
+Writen: ma być
 - Lightning Arrow / Tornado Shot Deadeye (guide po polsku)<br>
 POB: https://pobb.in/cVf2C_35nF4U <br>
 Video: https://www.youtube.com/watch?v=1KBE-mUvA6Y
