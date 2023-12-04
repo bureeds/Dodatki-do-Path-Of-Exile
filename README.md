@@ -38,7 +38,7 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 # Buildy:
 - srs guardian<br>
 POB: https://pobb.in/u/Subtractem/trZV71AYrYDM<br>
-Video: https://youtu.be/fiYpBOXPAgk?si=qQH6NenEStASSQLr
+Video: https://youtu.be/fiYpBOXPAgk?si=qQH6NenEStASSQLr<br>
 Writen: ma być
 - Lightning Arrow / Tornado Shot Deadeye (guide po polsku)<br>
 POB: https://pobb.in/cVf2C_35nF4U <br>
