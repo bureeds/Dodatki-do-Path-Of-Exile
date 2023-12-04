@@ -36,9 +36,10 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - https://poe.how/economy można sobie sprawdzić co się opłaca farmić
 - https://grinding.zone/ więcej jakiś stron z poe jak ten github
 # Buildy:
-- srs guardian
-POB: https://pobb.in/u/Subtractem/trZV71AYrYDM
+- srs guardian<br>
+POB: https://pobb.in/u/Subtractem/trZV71AYrYDM<br>
 Video: https://youtu.be/fiYpBOXPAgk?si=qQH6NenEStASSQLr
-- Lightning Arrow / Tornado Shot Deadeye (guide po polsku)
-- https://pobb.in/cVf2C_35nF4U
+- Lightning Arrow / Tornado Shot Deadeye (guide po polsku)<br>
+POB: https://pobb.in/cVf2C_35nF4U <br>
+Video: https://www.youtube.com/watch?v=1KBE-mUvA6Y
 ![image](https://github.com/bureeds/Dodatki-do-Path-Of-Exile/assets/34321746/6eac0fdb-930d-45b0-9f33-47b617c8affe)
