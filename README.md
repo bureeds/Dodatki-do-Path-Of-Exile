@@ -43,6 +43,9 @@ Writen: ma być
 - Lightning Arrow / Tornado Shot Deadeye (guide po polsku)<br>
 POB: https://pobb.in/cVf2C_35nF4U <br>
 Video: https://www.youtube.com/watch?v=1KBE-mUvA6Y
+- Lightning Arrow / Tornado Shot Deadeye / inny twórca niż wyżej i po ang<br>
+POB: https://pobb.in/kuxGbLVYpO9y<br>
+Writen: https://www.pathofexile.com/forum/view-thread/3359691
 - DD Elementalist (guide po polsku)<br>
 POB: https://pobb.in/8VEpwi1wiy-6<br>
 Video: https://www.youtube.com/watch?v=Z4i1DAhlq9E
