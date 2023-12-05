@@ -42,7 +42,10 @@ POB: https://pobb.in/JQ4RKPJbvyyK lub https://pobb.in/G-VI6PiiEu7m<br>
 Video: https://www.youtube.com/watch?v=pHssEwgZFQo
 - Explosive Trap Trickster<br>
 POB: https://pobb.in/00dkA4SUrdd2 lub https://pobb.in/6lYLgRjacKhj<br>
-Video: https://www.youtube.com/watch?v=LdFTo-YwUUg
+Video: https://www.youtube.com/watch?v=Ld FTo-YwUUg
+- Vaal Flameblast Ignite Elementalist
+POB: https://pobb.in/Lz7WkDtjjJ9A
+Video: https://www.youtube.com/watch?v=owmCBZN9jjU
 - srs guardian<br>
 POB: https://pobb.in/u/Subtractem/trZV71AYrYDM<br>
 Video: https://youtu.be/fiYpBOXPAgk?si=qQH6NenEStASSQLr<br>
