@@ -40,6 +40,9 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - Explosive Arrow Champion<br>
 POB: https://pobb.in/JQ4RKPJbvyyK lub https://pobb.in/G-VI6PiiEu7m<br>
 Video: https://www.youtube.com/watch?v=pHssEwgZFQo
+- Explosive Trap Trickster<br>
+POB: https://pobb.in/00dkA4SUrdd2 lub https://pobb.in/6lYLgRjacKhj<br>
+Video: https://www.youtube.com/watch?v=LdFTo-YwUUg
 - srs guardian<br>
 POB: https://pobb.in/u/Subtractem/trZV71AYrYDM<br>
 Video: https://youtu.be/fiYpBOXPAgk?si=qQH6NenEStASSQLr<br>
