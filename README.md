@@ -54,9 +54,10 @@ Writen: https://www.pathofexile.com/forum/view-thread/3359691
 POB: https://pobb.in/8VEpwi1wiy-6<br>
 Video: https://www.youtube.com/watch?v=Z4i1DAhlq9E
 ### Mid:
+- Icicle Mines / Eye of Winter Deadeye<br>
+Writen: https://www.pathofexile.com/forum/view-thread/3359691<br>
+### LOW:
 - Poison Seismic Exsanguinate Assassin (guide po polsku)<br>
 POB: https://pobb.in/ihWlycGp56ji<br>
 Video: https://www.youtube.com/watch?v=G2_-UXsjG20
-- Icicle Mines / Eye of Winter Deadeye<br>
-Writen: https://www.pathofexile.com/forum/view-thread/3359691<br>
 ![image](https://github.com/bureeds/Dodatki-do-Path-Of-Exile/assets/34321746/6eac0fdb-930d-45b0-9f33-47b617c8affe)
