@@ -63,8 +63,8 @@ Video: https://www.youtube.com/watch?v=Z4i1DAhlq9E
 POB: TR: https://pobb.in/UmR2FcRXPIWo / https://pobb.in/2wTR4RwK5cYq<br>
 POB: AB: https://pobb.in/quoLME3ATnL2 / https://pobb.in/IT2WadEQQH7e<br>
 Video: https://www.youtube.com/watch?v=LjF-NVzX1IA&t=1s
-- Cyclone Shockwave Slayer (guide po polsku)(nie wiadomo czy pob dostanie aktualzacje pod lige ale pewnie będzie działał build)
-POB: https://pobb.in/lZH0TScp8C2l
+- Cyclone Shockwave Slayer (guide po polsku)(nie wiadomo czy pob dostanie aktualzacje pod lige ale pewnie będzie działał build)<br>
+POB: https://pobb.in/lZH0TScp8C2l<br>
 Video: https://www.youtube.com/watch?v=y4MA4pClLZ0
 
 ### Mid:
