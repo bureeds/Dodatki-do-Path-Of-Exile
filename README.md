@@ -59,6 +59,11 @@ Writen: https://www.pathofexile.com/forum/view-thread/3359691
 - DD Elementalist (guide po polsku)<br>
 POB: https://pobb.in/8VEpwi1wiy-6<br>
 Video: https://www.youtube.com/watch?v=Z4i1DAhlq9E
+- Toxic Rain & Poison Artillery Ballista Pathfinder<br>
+POB: TR: https://pobb.in/UmR2FcRXPIWo / https://pobb.in/2wTR4RwK5cYq<br>
+POB: AB: https://pobb.in/quoLME3ATnL2 / https://pobb.in/IT2WadEQQH7e<br>
+Video: https://www.youtube.com/watch?v=LjF-NVzX1IA&t=1s
+
 ### Mid:
 - Icicle Mines / Eye of Winter Deadeye<br>
 Writen: https://www.pathofexile.com/forum/view-thread/3359700<br>
