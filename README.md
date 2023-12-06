@@ -74,4 +74,22 @@ Writen: https://www.pathofexile.com/forum/view-thread/3359700<br>
 - Poison Seismic Exsanguinate Assassin (guide po polsku)<br>
 POB: https://pobb.in/ihWlycGp56ji<br>
 Video: https://www.youtube.com/watch?v=G2_-UXsjG20
+- RANGED Animate Weapon Necromancer<br>
+POB:<br>
+Low Budget rAW: https://pobb.in/ILHR9xZUFC9S<br>
+Medium Budget rAW: https://pobb.in/fycv5j7x_lHI<br>
+High Budget rAW: https://pobb.in/ofkV_l48LBrr<br>
+Video: https://www.youtube.com/watch?v=EbX8Ah-pB6k
+- Poison Blade Vortex Pathfinder<br>
+POB: <br>
+Ultra-Budget Version: https://pobb.in/TJPy5EOrDGyx<br>
+Middle-Tier Version: https://pobb.in/WgjmYonMulmc<br>
+DPS Version: https://pobb.in/AOyrEMnZbquu<br>
+Video: https://www.youtube.com/watch?v=NXJg-uiPAxA<br>
+- Toxic Rain Magic Find Pathfinder<br>
+POB:  https://pobb.in/l_DlmBJN5D-N<Br>
+Video: https://www.youtube.com/watch?v=9ilknWp7OYY<br>
+- FlIcKeR StRiKe<br>
+POB: https://pobb.in/lWOIdwLXIV8h<br>
+Video: https://www.youtube.com/watch?v=vaGpodpqM5M<br>
 ![image](https://github.com/bureeds/Dodatki-do-Path-Of-Exile/assets/34321746/6eac0fdb-930d-45b0-9f33-47b617c8affe)
