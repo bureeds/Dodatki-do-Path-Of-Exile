@@ -92,4 +92,6 @@ Video: https://www.youtube.com/watch?v=9ilknWp7OYY<br>
 - FlIcKeR StRiKe<br>
 POB: https://pobb.in/lWOIdwLXIV8h<br>
 Video: https://www.youtube.com/watch?v=vaGpodpqM5M<br>
+
+https://docs.google.com/spreadsheets/d/1ogt7-ikdKPZwF9kmc0uiXN4hn_17bA5YA2bpms5w1gk/edit#gid=0 eeee
 ![image](https://github.com/bureeds/Dodatki-do-Path-Of-Exile/assets/34321746/6eac0fdb-930d-45b0-9f33-47b617c8affe)
