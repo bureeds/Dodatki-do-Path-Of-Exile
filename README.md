@@ -51,6 +51,7 @@ Video: https://www.youtube.com/watch?v=LdFTo-YwUUg
 - Summon Raging Spirit Guardian<br>
 POB: https://pobb.in/u/Subtractem/trZV71AYrYDM<br>
 Video: https://youtu.be/fiYpBOXPAgk?si=qQH6NenEStASSQLr<br>
+Video: https://www.youtube.com/watch?v=b-ikzKzKztA<br> <--
 Writen: ma być
 - Lightning Arrow / Tornado Shot Deadeye (guide po polsku)//Bizon tym gra<br> 
 POB: https://pobb.in/cVf2C_35nF4U <br>
