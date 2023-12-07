@@ -39,7 +39,7 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 //update  tylko zajebiste buildy są na tej liście.
 ### Meta:
 #Polecane dla osób grających pierwszy raz:
-- Boneshatter Juggernaut <br> /// będzie nowe video + nowy pob
+- Boneshatter Juggernaut <br> /// będzie nowe video + nowy pob //bubik tym gra
 Video: https://www.youtube.com/watch?v=6umedIdvgQc <br>
 - Explosive Arrow Champion<br>
 POB: https://pobb.in/JQ4RKPJbvyyK lub https://pobb.in/G-VI6PiiEu7m<br>
