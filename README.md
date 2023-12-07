@@ -58,6 +58,7 @@ POB: https://pobb.in/cVf2C_35nF4U <br>
 Video: https://www.youtube.com/watch?v=1KBE-mUvA6Y
 - DD Elementalist (guide po polsku)<br>
 POB: https://pobb.in/8VEpwi1wiy-6<br>
+Video: https://youtu.be/SjVOGh3jwl4?si=nqYtCYHxbw0rF8YB<br>
 Video: https://www.youtube.com/watch?v=Z4i1DAhlq9E
 - Toxic Rain & Poison Artillery Ballista Pathfinder<br>
 POB: TR: https://pobb.in/UmR2FcRXPIWo / https://pobb.in/2wTR4RwK5cYq<br>
