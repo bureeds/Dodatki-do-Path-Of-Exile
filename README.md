@@ -51,7 +51,7 @@ Video: https://www.youtube.com/watch?v=LdFTo-YwUUg
 POB: https://pobb.in/u/Subtractem/trZV71AYrYDM<br>
 Video: https://youtu.be/fiYpBOXPAgk?si=qQH6NenEStASSQLr<br>
 Writen: ma być
-- Lightning Arrow / Tornado Shot Deadeye (guide po polsku)<br>
+- Lightning Arrow / Tornado Shot Deadeye (guide po polsku)//Bizon tym gra<br> 
 POB: https://pobb.in/cVf2C_35nF4U <br>
 Video: https://www.youtube.com/watch?v=1KBE-mUvA6Y
 - DD Elementalist (guide po polsku)<br>
