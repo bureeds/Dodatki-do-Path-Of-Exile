@@ -34,6 +34,7 @@ z godzine zajmuje ustawienie tego ale na jednym monitorze może być warto
 - https://www.craftofexile.com/ craftowanie symulator oblicza koszt itp
 - https://mapsofexile.com/ można sprawdzić gdzie dropi dana karta
 - https://poe.how/economy można sobie sprawdzić co się opłaca farmić
+- https://poemap.trade/ wymiana map
 - https://grinding.zone/ więcej jakiś stron z poe jak ten github
 # Buildy:
 //update  tylko zajebiste buildy są na tej liście.
